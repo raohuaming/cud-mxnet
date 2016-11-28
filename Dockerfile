@@ -1,4 +1,4 @@
-FROM kaixhin/cuda-mxnet
+FROM kaixhin/cuda-mxnet:8.0
 
 RUN sudo apt-get update
 
